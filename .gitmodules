@@ -1,0 +1,6 @@
+[submodule "cupid-ui"]
+	path = cupid-ui
+	url = https://github.com/your-username/cupid-ui.git
+[submodule "cupid-backend"]
+	path = cupid-backend
+	url = https://github.com/your-username/cupid-backend.git
