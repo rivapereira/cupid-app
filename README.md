@@ -2,6 +2,9 @@
 
 Cupid AI is a playful, AI-powered dating app that helps users find their perfect match! 👫 Based on user-selected traits and sentiment analysis, Cupid AI uses machine learning models to predict compatibility, gauge emotional alignment, and give personalized match suggestions. Whether you're into adventures or quiet evenings, Cupid AI tailors your experience with fun vibes and insightful predictions.
 
+Protoype Demo-
+https://huggingface.co/spaces/rivapereira123/cupid-app
+
 ---
 
 ## 🚀 Features
